@@ -1,6 +1,7 @@
 # 🐋 WhalePulse AI
 
 Real-time BSC (Binance Smart Chain) whale detection Telegram bot with AI-powered analysis.
+![WhalePulse AI Bot](https://github.com/ramykatour/WhalePulse-AI-BOT/blob/main/screen.png?raw=true)
 
 ## Features
 
